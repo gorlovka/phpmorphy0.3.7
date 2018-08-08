@@ -1,0 +1,10 @@
+{
+    "name": "gorlovka/phpmorphy0.3.7",
+    "authors": [
+        {
+            "name": "Hans Lauer",
+            "email": "contact@alexshulzhenko.ru"
+        }
+    ],
+    "require": {}
+}
